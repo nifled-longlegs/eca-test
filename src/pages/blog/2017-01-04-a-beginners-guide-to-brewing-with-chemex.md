@@ -6,6 +6,7 @@ description: Brewing with a Chemex probably seems like a complicated, time-consu
 tags:
   - brewing
   - chemex
+thumbnail: https://pre00.deviantart.net/4da2/th/pre/i/2013/083/4/0/random_landscape_02_by_lizterhann-d5z5x4h.jpg
 ---
 ![chemex](/img/chemex.jpg)
 
